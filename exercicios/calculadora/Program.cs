@@ -1,4 +1,5 @@
-﻿namespace exercicios
+﻿/*
+namespace exercicios
 {
     class Calculadora
     {
@@ -62,4 +63,4 @@
         private static double Expoente(double num1, double num2) => Math.Pow(num1, num2);
     }
 }
-
+*/
